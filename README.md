@@ -5,7 +5,7 @@ Download: https://drive.google.com/file/d/1y1OtsqM_QKwrNiHYsL8XncqtNyMLTEGT/view
 This is my attemp on using Unity Engine for the first time, I've set a one week limit for myself and see what could I come out with no knowledge and experience of using Unity Engine.
 
 I decided to create a FPS game as I tried to figure out 
-the basic mechanics and knowledge of using the engine first
+the basic mechanics and get a hang of how a game engine works first.
 
 This is the menu of my game which I took the logo and copy the style of FINAL FANTASY XIII-2.
 I really like the intro of it and find it beautiful but I always feel like the intro could do better by matching to its music.

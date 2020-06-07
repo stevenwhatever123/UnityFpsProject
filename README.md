@@ -13,7 +13,7 @@ So I tried recreate it, it looks good but I think I could do better on it.
 What I implemented:
 
 1. Player Movement(of course)
-![alt text](https://i.imgur.com/NwLULBu.gif)
+<a href="https://imgur.com/NwLULBu"><img src="https://i.imgur.com/NwLULBu.gif" title="source: imgur.com" /></a>
 
 2. Crouching Movement
 ![alt text](https://i.imgur.com/MGAnaVl.gifv)

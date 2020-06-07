@@ -16,7 +16,7 @@ What I implemented:
 <a href="https://imgur.com/NwLULBu"><img src="https://i.imgur.com/NwLULBu.gif" title="source: imgur.com" /></a>
 
 2. Crouching Movement
-![alt text](https://i.imgur.com/Apy48on.gifv)
+![Imgur Image](https://i.imgur.com/Apy48on.gifv)
 
 3. Jumping
 ![alt text](https://i.imgur.com/UtU5Lhd.gifv)

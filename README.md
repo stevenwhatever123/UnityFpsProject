@@ -13,16 +13,16 @@ So I tried recreate it, it looks good but I think I could do better on it.
 What I implemented:
 
 1. Player Movement(of course)
-[Imgur](https://i.imgur.com/Apy48on.gifv)
+![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/1.gif)
 
 2. Crouching Movement
-![Imgur Image](https://i.imgur.com/Apy48on.gifv)
+![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/2.gif)
 
 3. Jumping
-![alt text](https://i.imgur.com/UtU5Lhd.gifv)
+![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/3.gif)
 
 4. Wall Silding/Climbing
-![alt text](https://i.imgur.com/anVEI0K.gifv)
+![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/4.gif)
 
 5. A Gun which can fire bullets
-![alt text](https://i.imgur.com/1MX53Wn.gifv)
+![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/5.gif)

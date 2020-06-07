@@ -33,7 +33,7 @@ Jumping is not that hard to code, but when working with wall sliding/climing, it
 It took me a few days to code this part of my game.
 I used animator to animate the camera rotation, which looks pretty good to me.
 I tried different way to code how the player could slide/climb the wall but all didn't work as excepted.
-Even the version now isn't what I except, but it do what I want and I'll leave it here.
+Even the version now isn't what I except, but it does it job and I'll leave it here.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/4.gif)
 
 5. A Gun which can fire bullets  

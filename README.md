@@ -14,7 +14,7 @@ So I tried recreate it, it looks good but I think I could do better on it.
 
 What I implemented:
 
-1. Player Movement(of course)
+1. Player Movement(of course) </n>
 It took me a few days to implement as I don't quiet really know how the engine works.
 At first, I used the Input.Get(KeyCode.W) for all WASD input which is not kinda good and efficient as there
 is a lot of repeated code. So I rewrote it in a better style of code.

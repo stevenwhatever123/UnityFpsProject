@@ -9,3 +9,20 @@ This is the menu of my game which I took the logo and copy the style of FINAL FA
 I really like the intro of it but I always feel like the intro could do better by matching to its music.
 So I tried recreate it, it looks good but I think I could do better on it.
 ![alt text](https://i.imgur.com/HBw3a93.png)
+
+What I implemented:
+
+1. Player Movement(of course)
+![alt text](https://i.imgur.com/NwLULBu.gifv)
+
+2. Crouching Movement
+![alt text](https://i.imgur.com/MGAnaVl.gifv)
+
+3. Jumping
+![alt text](https://i.imgur.com/UtU5Lhd.gifv)
+
+4. Wall Silding/Climbing
+![alt text](https://i.imgur.com/anVEI0K.gifv)
+
+5. A Gun which can fire bullets
+![alt text](https://i.imgur.com/1MX53Wn.gifv)

@@ -40,3 +40,7 @@ Even the version now isn't what I except, but it does it job and I'll leave it h
 It's fun when working in this part, working in animation of the gun is easier than what I thought it would be.
 The bullet with trail coming out of the gun is the most satisfying part I've worked in.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/5.gif)
+
+Conclusion:  
+It's a fun week on making a game by self teaching myself. There are many things I have never thought about. Next time, I may try to make a 2D game as I think there are fewer work to implements when compared to a 3D game and giving me freedom to implement what I wanted to.
+I have many thoughts of making a game and may want to take part in a bit of music composing next time.

@@ -2,7 +2,7 @@
 
 Download: https://drive.google.com/file/d/1y1OtsqM_QKwrNiHYsL8XncqtNyMLTEGT/view?usp=sharing
 
-This is my attemp on using Unity Engine for the first time, I've set a one week limit for myself and see what could I come out with no knowledge and experience of using Unity Engine.
+This is my attemp on using Unity Engine for the first time, I've set a one week limit for myself and see what I could come out with no knowledge and experience of using Unity Engine.
 
 I decided to create a FPS game as I tried to figure out 
 the basic mechanics and get a hang of how a game engine works first.

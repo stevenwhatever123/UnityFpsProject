@@ -14,29 +14,29 @@ So I tried recreate it, it looks good but I think I could do better on it.
 
 What I implemented:
 
-1. Player Movement(of course) </n>
+1. Player Movement(of course)  
 It took me a few days to implement as I don't quiet really know how the engine works.
 At first, I used the Input.Get(KeyCode.W) for all WASD input which is not kinda good and efficient as there
 is a lot of repeated code. So I rewrote it in a better style of code.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/1.gif)
 
-2. Crouching Movement
+2. Crouching Movement  
 The crouching movement isn't that difficult to implement, but what I did is just resizing the collider of the player,
 which is not doing in a good way as way because the player mesh went underneath the ground.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/2.gif)
 
-3. Jumping
+3. Jumping  
 Jumping is not that hard to code, but when working with wall sliding/climing, it did really give me a hard time.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/3.gif)
 
-4. Wall Slilding/Climbing
+4. Wall Slilding/Climbing  
 It took me a few days to code this part of my game.
 I used animator to animate the camera rotation, which looks pretty good to me.
 I tried different way to code how the player could slide/climb the wall but all didn't work as excepted.
 Even the version now isn't what I except, but it do what I want and I'll leave it here.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/4.gif)
 
-5. A Gun which can fire bullets
+5. A Gun which can fire bullets  
 It's fun when working in this part, working in animation of the gun is easier than what I thought it would be.
 The bullet with trail coming out of the gun is the most satisfying part I've worked in.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/5.gif)

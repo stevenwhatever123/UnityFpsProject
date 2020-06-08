@@ -16,8 +16,8 @@ What I implemented:
 
 1. Player Movement(of course)  
 It took me a few days to implement as I don't quiet really know how the engine works.
-At first, I used the Input.Get(KeyCode.W) for all WASD input which is not kinda good and efficient as there
-is a lot of repeated code. So I rewrote it in a better style of code.
+At first, I used the Input.Get(KeyCode.W) for all WASD input which is not good and inefficient as there
+are a lot of repeated code. So I rewrote it in a better style of code.
 ![image](https://github.com/stevenwhatever123/unityfpsproject/blob/master/1.gif)
 
 2. Crouching Movement  
